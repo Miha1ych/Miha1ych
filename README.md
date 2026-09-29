@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="assets/bear.svg" alt="Прыгающий медведь" width="100%"/>
-
 # Привет, я Михалыч 🐻
 
 ![Профиль](https://komarev.com/ghpvc/?username=Miha1ych&label=Просмотры&color=8a5326&style=flat-square)
